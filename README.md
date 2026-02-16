@@ -2,7 +2,6 @@
 
 ![alt text](image-1.png)
 ![alt text](image-2.png)
-![alt text](image-3.png)
 
 ## Project Overview
 
@@ -207,6 +206,7 @@ This project demonstrates the complete Machine Learning workflow:
 - Ethical reflection
 
 It highlights how Machine Learning can model complex pricing systems more effectively than fixed-rule approaches.
+
 
 
 
