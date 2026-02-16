@@ -187,13 +187,6 @@ notebook\ride-price-model.ipynb
 
 ---
 
-## Repository Structure
-
-![alt text](image.png)
-
-
----
-
 ## Conclusion
 
 This project demonstrates the complete Machine Learning workflow:
@@ -206,6 +199,7 @@ This project demonstrates the complete Machine Learning workflow:
 - Ethical reflection
 
 It highlights how Machine Learning can model complex pricing systems more effectively than fixed-rule approaches.
+
 
 
 
